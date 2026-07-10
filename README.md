@@ -17,7 +17,7 @@ A simple Login and Registration application built using **Python**, **Tkinter**,
 Run the project:
 
 ```bash
-python main.py
+python login.py
 ```
 
 **Note:** Create the `login` database and `login` table before running the application.
